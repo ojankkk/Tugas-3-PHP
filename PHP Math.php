@@ -14,7 +14,16 @@ echo("<br>");
 echo(sqrt(64) . "<br>");
 echo(sqrt(0) . "<br>");
 echo(sqrt(1) . "<br>");
-echo(sqrt(9));
+echo(sqrt(9) . "<br>");
+echo("<br>");
+echo(round(0.60) . "<br>");
+echo(round(0.50) . "<br>");
+echo(round(0.49) . "<br>");
+echo(round(-4.40) . "<br>");
+echo(round(-4.60));
+echo("<br>");
+echo(rand(10,100));
+
 
 ?>
 
